@@ -46,10 +46,10 @@ body{
 .bold {
 	font-weight: 700;
 	font-size: 20px;
-	line-height: 1,5;
+	line-height: 1.5;
 	color: #1E212C;
 }
 .normal {
-	line-height: 1,6;
+	line-height: 1.6;
 	color: #424551;
 }
